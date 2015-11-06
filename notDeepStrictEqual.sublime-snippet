@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+assert.notDeepStrictEqual(${1:actual}, ${2:expected}${3:, ${4:message}});
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>andse</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.js</scope>
+    <description>assert.notDeepStrictEqual</description>
+</snippet>
